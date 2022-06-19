@@ -1,4 +1,4 @@
-name: cookiecutter-personal-platzi
+name: cookiecutter-personal
 channels:
   - anaconda
   - conda-forge
