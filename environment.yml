@@ -1,0 +1,9 @@
+name: cookiecutter-personal-platzi
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+
+prefix: /User/diego_gonzalez@CFC-324/anaconda3/envs/cookiecutter-personal
